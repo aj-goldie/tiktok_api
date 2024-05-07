@@ -47,8 +47,6 @@ def main():
         print("Failed to download video.")
 
 
-from moviepy.editor import *
-
 # Load the MP4 video file
 video = VideoFileClip("downloaded_video/downloaded_video.mp4")
 
