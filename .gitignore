@@ -1,0 +1,7 @@
+pylive
+TikTokApi
+.cursorrules
+launch
+downloaded_video/*
+*.ipynb
+extracted_audio/*
